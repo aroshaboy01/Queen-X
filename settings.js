@@ -24,14 +24,14 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.ownernomer = "94761676948" //ur number
 global.premium = ['94761676948'] //ur premium number
-global.botname = '© 𝗶 𝗕𝗢𝗬 𝗕𝗢𝗧 👿' //ur bot name
+global.botname = '© 𝐢 𝐁𝐎𝐘👿𝐁𝐎𝐓⇲ ²⁰²³' //ur bot name
 global.linkz = "https://chat.whatsapp.com/IT6mjqGINN6LaLSKnTZd6r" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
 global.packname = " 𝗶 𝗕𝗢𝗬 𝗕𝗢𝗧 👿🏻" //ur sticker watermark packname
 global.author = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "𝗶 𝗕𝗢𝗬 𝗕𝗢𝗧 👿" //ur watermark
+global.wm = "𝐢 𝐁𝐎𝐘👿𝐁𝐎𝐓⇲ ²⁰²³" //ur watermark
 
 // Other
 global.sessionName = 'session'
